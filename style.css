@@ -1,0 +1,29 @@
+h1{
+   	font-size: 25px;
+}
+h2{
+	font-size: 22px;
+}
+  		#ok{
+  			background: #e3e3e3;
+  		}
+  		h1{
+  			display: inline-block;
+  			text-align: center;
+  		}
+  		br{
+	text-indent: 80px;
+}
+
+
+h1{
+	margin: auto;
+}  		
+a{
+  font-size: 25px;
+}
+li strong {
+  font-size: 20px;
+}
+
+
